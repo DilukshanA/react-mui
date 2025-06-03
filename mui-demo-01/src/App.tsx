@@ -1,4 +1,5 @@
 import MUIButton from "./components/MUIButton"
+import MUIToggleButton from "./components/MUIToggleButton"
 import MUITypography from "./components/MUITypography"
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
     <MUITypography/>
     <MUIButton/>
+    <MUIToggleButton/>
     </>
   )
 }
