@@ -1,5 +1,6 @@
 import MUIButton from "./components/MUIButton"
 import MUICheckBox from "./components/MUICheckBox"
+import MUIRattings from "./components/MUIRattings"
 import MUISwitch from "./components/MUISwitch"
 import MUIToggleButton from "./components/MUIToggleButton"
 import MUITypography from "./components/MUITypography"
@@ -15,6 +16,7 @@ function App() {
     <MUICheckBox/>
     <SkillsCheck/>
     <MUISwitch/>
+    <MUIRattings/>
     </>
   )
 }
